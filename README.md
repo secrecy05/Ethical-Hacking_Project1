@@ -1,6 +1,6 @@
 # Ethical-Hacking_Project1
 It is a project which would help me to get the real world experience.
-# 🛡️ TrackExtension - Browser Extension to Block Trackers
+# 🛡️ TrackerExtension - Browser Extension to Block Trackers
 
 ## 📖 Introduction
 **TrackExtension** is a privacy-focused browser extension built to block known tracking scripts and improve user privacy.  
