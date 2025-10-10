@@ -1,8 +1,0 @@
-body { font-family: Arial, sans-serif; margin: 20px; background:#f7f8fa; color:#222; }
-h1 { font-size: 28px; }
-form { margin-top: 12px; }
-table { border-collapse: collapse; width: 100%; }
-table td, table th { border: 1px solid #ddd; padding: 8px; }
-.flash { padding: 8px; margin:8px 0; border-radius:6px; }
-.flash.success { background:#e6ffed; color:#064e2d; }
-.flash.error { background:#ffe6e6; color:#6b0000; }
